@@ -1,0 +1,15 @@
+.venv/
+build/
+dist/
+release/
+*.spec
+__pycache__/
+*.pyc
+
+# local data of the app (settings, mod library, logs)
+fh2manager_settings.json
+fh2modkit_settings.json
+mods/
+mods_backup*/
+fh2manager.log
+fh2manager.log.1
