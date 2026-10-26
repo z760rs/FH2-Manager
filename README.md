@@ -24,6 +24,11 @@ mod into the *changes* it makes to the stock game and combines the changes of al
 
 ## Getting started
 
+This tool works best on unmodified copies of FH2. If you are using a modified copy, please uninstall any hand installed cars/car packs, 
+or identify an unmodified copy of the game in the settings. If you have chosen to identify an unmodified copy in the settings, 
+before installing any mods in addition to the hand installed mods, click the "adopt existing" button. This will compare your modified
+instance of the game to the unmodified copy to identify any existing mods. Once the existing mods are identified, they will be packaged as an existing 
+mod and appear under mods in the UI to import with any other mods. 
 
 1. Download `FH2Manager.exe` from the [Releases](../../releases) page and put it in a folder of its own. It needs no
    installation. Your settings, mod library and log are kept next to it.
